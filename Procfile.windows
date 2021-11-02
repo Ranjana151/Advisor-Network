@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: python manage.py runserver 0.0.0.0:5000
+=======
+web: python manage.py runserver 0.0.0.0:5000
+>>>>>>> a906888816ea4dec813f816c8449057b3c403f75
